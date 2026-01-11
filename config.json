@@ -1,0 +1,8 @@
+{
+  "nickTemplate": "{ALLIANCE} | {IGN}",
+  "defaultIgnPrompt": "What’s your in-game name (IGN)?",
+  "verifiedRoleName": "Verified",
+  "bypassRoleNames": ["Admin", "Moderator"],
+  "enforceOnManualNickChange": true,
+  "logChannelName": "bot-audit"
+}
